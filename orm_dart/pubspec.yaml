@@ -1,0 +1,9 @@
+name: orm_dart
+description: ORM em Dart puro para Firestore via REST API
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^0.13.6
